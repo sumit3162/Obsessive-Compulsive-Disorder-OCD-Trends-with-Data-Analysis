@@ -136,5 +136,3 @@ The stable trend post-2019 might be influenced by limited healthcare access duri
 * 🧠 Learn more about OCD: [NHS UK – OCD Overview](https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/overview/)
 
 ---
-
-Would you like help turning this into a Power BI dashboard, Jupyter notebook markdown, or even creating a project report PDF?
